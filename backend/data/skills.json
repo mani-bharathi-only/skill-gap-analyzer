@@ -1,0 +1,51 @@
+
+{
+  "Python": {
+    "aliases": ["python3", "python 3"],
+    "adjacent": []
+  },
+  "FastAPI": {
+    "aliases": ["fastapi", "fast api"],
+    "adjacent": ["Flask", "Django"]
+  },
+  "Flask": {
+    "aliases": ["flask"],
+    "adjacent": ["FastAPI", "Django"]
+  },
+  "Django": {
+    "aliases": ["django"],
+    "adjacent": ["FastAPI", "Flask"]
+  },
+  "MySQL": {
+    "aliases": ["mysql"],
+    "adjacent": ["PostgreSQL", "SQLite"]
+  },
+  "PostgreSQL": {
+    "aliases": ["postgresql", "postgres"],
+    "adjacent": ["MySQL", "SQLite"]
+  },
+  "SQLite": {
+    "aliases": ["sqlite", "sqlite3"],
+    "adjacent": ["MySQL", "PostgreSQL"]
+  },
+  "JavaScript": {
+    "aliases": ["javascript", "js"],
+    "adjacent": ["TypeScript"]
+  },
+  "TypeScript": {
+    "aliases": ["typescript"],
+    "adjacent": ["JavaScript"]
+  },
+  "React": {
+    "aliases": ["react", "reactjs", "react.js"],
+    "adjacent": []
+  },
+  "Docker": {
+    "aliases": ["docker"],
+    "adjacent": []
+  },
+  "Git": {
+    "aliases": ["git"],
+    "adjacent": []
+  }
+}
