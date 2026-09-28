@@ -1,0 +1,23 @@
+
+[
+  {
+    "title": "Python Backend Developer",
+    "description": "We are looking for a Python Backend Developer with experience in FastAPI, MySQL, Git and Docker."
+  },
+  {
+    "title": "Full Stack Developer",
+    "description": "We require experience in Python, Django, JavaScript, React, MySQL and Git."
+  },
+  {
+    "title": "Frontend Developer",
+    "description": "We are looking for a developer with JavaScript, TypeScript, React and Git experience."
+  },
+  {
+    "title": "Junior Python Developer",
+    "description": "Required skills include Python, Flask, SQLite and Git."
+  },
+  {
+    "title": "Backend API Developer",
+    "description": "Experience with Python, FastAPI, PostgreSQL, Docker and Git is required."
+  }
+]

@@ -1,14 +1,14 @@
-# Virtual environments
-venv/
 .venv/
-
-# Python cache
 __pycache__/
 *.pyc
-
-# Environment variables and secrets
 .env
-.env.*
 
-# Editor files
-.vscode/
+# Local SQLite databases
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Test and Streamlit cache
+.pytest_cache/
+.streamlit/secrets.toml
