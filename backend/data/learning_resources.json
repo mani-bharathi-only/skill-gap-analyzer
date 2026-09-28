@@ -1,0 +1,51 @@
+
+{
+  "Python": {
+    "description": "Learn Python programming, functions, OOP and modules.",
+    "url": "https://docs.python.org/3/tutorial/"
+  },
+  "FastAPI": {
+    "description": "Learn API development, Pydantic, dependency injection and async endpoints.",
+    "url": "https://fastapi.tiangolo.com/tutorial/"
+  },
+  "Flask": {
+    "description": "Learn Python web development, routing and request handling.",
+    "url": "https://flask.palletsprojects.com/en/stable/tutorial/"
+  },
+  "Django": {
+    "description": "Learn Django models, views, routing and authentication.",
+    "url": "https://docs.djangoproject.com/en/stable/intro/tutorial01/"
+  },
+  "MySQL": {
+    "description": "Learn relational databases, SQL queries, joins and indexing.",
+    "url": "https://dev.mysql.com/doc/refman/8.4/en/tutorial.html"
+  },
+  "PostgreSQL": {
+    "description": "Learn PostgreSQL, relational database design and SQL.",
+    "url": "https://www.postgresql.org/docs/current/tutorial.html"
+  },
+  "SQLite": {
+    "description": "Learn SQLite, database connections and SQL operations.",
+    "url": "https://www.sqlite.org/quickstart.html"
+  },
+  "JavaScript": {
+    "description": "Learn JavaScript fundamentals, functions, objects and asynchronous programming.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+  },
+  "TypeScript": {
+    "description": "Learn static typing, interfaces and TypeScript fundamentals.",
+    "url": "https://www.typescriptlang.org/docs/handbook/intro.html"
+  },
+  "React": {
+    "description": "Learn React components, JSX, props, state and hooks.",
+    "url": "https://react.dev/learn"
+  },
+  "Docker": {
+    "description": "Learn Docker images, containers, Dockerfiles and application deployment.",
+    "url": "https://docs.docker.com/get-started/"
+  },
+  "Git": {
+    "description": "Learn version control, commits, branches and collaboration.",
+    "url": "https://git-scm.com/book/en/v2"
+  }
+}
